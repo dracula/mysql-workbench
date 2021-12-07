@@ -13,7 +13,7 @@ Original image in top row, altered image on the bottom row (source credits in Gi
 - Go to your code_editor.xml
   - if you are using Ubuntu go to `/usr/share/mysql-workbench/data` and open `code_editor.xml`
   - if you are using Windows go to `C:\Program Files\MySQL\MySQL Workbench 6.3 CE\data` and open `code_editor.xml`
-- Paste the code you selected before inside the tag ``<language name="SCLEX_MYSQL">``
+- Paste the code you selected before inside the tag ``<language name="SCLEX_MYSQL">``, replacing all the styles in that tag.
 - Open your MySQL Workbench and be happy!
 
 ## Team
