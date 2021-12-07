@@ -8,12 +8,13 @@ Original image in top row, altered image on the bottom row (source credits in Gi
 
 ## Install
 
-Copy the code below:
-```bash
-$ yarn / npm install
-# Iniciar o projeto
-$ yarn start / npm start
-```
+- Copy the code below:
+  - [copy.xml](copy.xml)
+- Go to your code_editor.xml
+  - if you are using Ubuntu go to `/usr/share/mysql-workbench/data` and open `code_editor.xml`
+  - if you are using Windows go to `C:\Program Files\MySQL\MySQL Workbench 6.3 CE\data` and open `code_editor.xml`
+- Paste the code you selected before inside the tag ``<language name="SCLEX_MYSQL">``
+- Open your MySQL Workbench and be happy!
 
 ## Team
 
