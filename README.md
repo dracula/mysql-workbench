@@ -20,7 +20,7 @@ Original image in top row, altered image on the bottom row (source credits in Gi
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/em-client/graphs/contributors).
 
-| [![Michael Caxias Draw](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](https://github.com/bigpick) |
+| [![Michael Caxias Draw](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](https://github.com/michaelcaxias) |
 | --- |
 | [Michael Caxias](https://github.com/michaelcaxias) |
 
