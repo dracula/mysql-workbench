@@ -2,19 +2,11 @@
 
 > A dark theme for [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-![Screenshot](https://i.imgur.com/772v0Mo.png)
-
-Original image in top row, altered image on the bottom row (source credits in Github repo); more examples in the INSTALL section.
+![Screenshot](./screenshot.png)
 
 ## Install
 
-- Copy the code below:
-  - [copy.xml](copy.xml)
-- Go to your code_editor.xml
-  - if you are using Ubuntu go to `/usr/share/mysql-workbench/data` and open `code_editor.xml`
-  - if you are using Windows go to `C:\Program Files\MySQL\MySQL Workbench 6.3 CE\data` and open `code_editor.xml`
-- Paste the code you selected before inside the tag ``<language name="SCLEX_MYSQL">``, replacing all the styles in that tag.
-- Open your MySQL Workbench and be happy!
+All instructions can be found at [INSTALL.md](./INSTALL.md)
 
 ## Team
 
@@ -24,3 +16,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | --- |
 | [Michael Caxias](https://github.com/michaelcaxias) |
 
+## License
+
+[MIT License](./LICENSE)
