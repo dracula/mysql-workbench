@@ -1,4 +1,4 @@
-# Dracula theme for [MySQL Workbench](https://www.mysql.com/products/workbench/)
+# Dracula for [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 > A dark theme for [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
