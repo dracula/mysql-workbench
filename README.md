@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md)
+All instructions can be found at [draculatheme.com/mysql-workbench](https://draculatheme.com/mysql-workbench).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/em-client/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/mysql-workbench/graphs/contributors).
 
 | [![Michael Caxias Draw](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](https://github.com/michaelcaxias) |
 | --- |
